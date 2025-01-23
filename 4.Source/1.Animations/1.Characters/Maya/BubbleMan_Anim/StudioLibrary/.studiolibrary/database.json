@@ -1,29 +1,47 @@
 {
+    "../../Enemy": {
+        "name": "Enemy",
+        "path": "../../Enemy",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "StudioLibrary",
+        "modified": 1737667052.9909008,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../Enemy/Idle.pose": {
+        "name": "Idle.pose",
+        "path": "../../Enemy/Idle.pose",
+        "type": ".pose",
+        "folder": "../../Enemy",
+        "category": "Enemy",
+        "modified": 1737667088.949674,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
     "../../Player": {
-        "category": "StudioLibrary", 
-        "name": "Player", 
-        "__class__": "studiolibrary.folderitem.FolderItem", 
-        "modified": 1737636107.324989, 
-        "path": "../../Player", 
-        "folder": "../..", 
+        "category": "StudioLibrary",
+        "name": "Player",
+        "__class__": "studiolibrary.folderitem.FolderItem",
+        "modified": 1737636107.324989,
+        "path": "../../Player",
+        "folder": "../..",
         "type": "Folder"
-    }, 
+    },
     "../../Player/Idle.pose": {
-        "category": "Player", 
-        "name": "Idle.pose", 
-        "modified": 1737636193.276844, 
-        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
-        "path": "../../Player/Idle.pose", 
-        "folder": "../../Player", 
+        "category": "Player",
+        "name": "Idle.pose",
+        "modified": 1737636193.276844,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem",
+        "path": "../../Player/Idle.pose",
+        "folder": "../../Player",
         "type": ".pose"
-    }, 
+    },
     "../../Player/Jump.pose": {
-        "category": "Player", 
-        "name": "Jump.pose", 
-        "path": "../../Player/Jump.pose", 
-        "folder": "../../Player", 
-        "type": ".pose", 
-        "modified": 1737643596.752666, 
+        "category": "Player",
+        "name": "Jump.pose",
+        "path": "../../Player/Jump.pose",
+        "folder": "../../Player",
+        "type": ".pose",
+        "modified": 1737643596.752666,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     }
 }
