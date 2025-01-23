@@ -1,0 +1,29 @@
+{
+    "../../Player": {
+        "category": "StudioLibrary", 
+        "name": "Player", 
+        "__class__": "studiolibrary.folderitem.FolderItem", 
+        "modified": 1737636107.324989, 
+        "path": "../../Player", 
+        "folder": "../..", 
+        "type": "Folder"
+    }, 
+    "../../Player/Idle.pose": {
+        "category": "Player", 
+        "name": "Idle.pose", 
+        "modified": 1737636193.276844, 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "path": "../../Player/Idle.pose", 
+        "folder": "../../Player", 
+        "type": ".pose"
+    }, 
+    "../../Player/Jump.pose": {
+        "category": "Player", 
+        "name": "Jump.pose", 
+        "path": "../../Player/Jump.pose", 
+        "folder": "../../Player", 
+        "type": ".pose", 
+        "modified": 1737643596.752666, 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    }
+}
