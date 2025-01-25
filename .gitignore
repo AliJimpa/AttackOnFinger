@@ -77,3 +77,5 @@ DerivedDataCache/*
 # Custom
 5.UnrealProject/BubbleMan/Intermediate/
 5.UnrealProject/BubbleMan/Saved/
+5.UnrealProject/BubbleMan/Binaries/
+5.UnrealProject/BubbleMan/Build/
