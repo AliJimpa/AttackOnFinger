@@ -1,3 +1,5 @@
+<img width="335" height="181" alt="image" src="https://github.com/user-attachments/assets/e15675b9-51e5-4c36-b077-86af11f7913b" />
+
 # AttackOnFinger
 
 **AttackOnFinger** is a Global Game Jam 2025 project developed in Unreal Engine. The game is inspired by the theme **"Bubble"** and presents a unique and chaotic third-person experience.
@@ -7,6 +9,9 @@ In **AttackOnFinger**, players control a bubble-character in a vibrant, action-p
 [GlobalGameJamSite](https://globalgamejam.org/games/2025/attack-finger-2)
 
 The game combines **third-person action mechanics** with a playful, destructive bubble theme, offering a fresh take on health and damage systems where visual feedback directly shows the player's condition.
+
+## Screenshots
+![Gameplay Screenshot](https://ggjv4.s3.us-west-1.amazonaws.com/files/styles/flexslider_full/s3/games/2025/294178/screenshot/All.jpg?VersionId=F7Dm9OPbNNO8pyYa2wEIkocrttq5f6B8&itok=fIe6iYqe)  
 
 ## Key Features
 - Third-person bubble character gameplay
@@ -33,3 +38,5 @@ This project was created for **Global Game Jam 2025**, showcasing creativity und
 - [Artin] - ideations
 
 Special thanks to all team members for their hard work and dedication during the jam!
+
+![Team](https://ggjv4.s3.us-west-1.amazonaws.com/files/styles/sidebar_full/s3/games/2025/294178/team_picture/Team.jpg?VersionId=mUyeC3CSdulPv08KCutWD.VOZPF7tnhA&itok=J6kbsDgt) 
